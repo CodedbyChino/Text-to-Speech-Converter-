@@ -92,7 +92,7 @@ If you encounter any bugs or unexpected behavior while using the Text-to-Speech 
 - Actual behavior
 - Any error messages or screenshots
 
-You can submit bug reports by [opening an issue](link-to-issues) in the GitHub repository.
+You can submit bug reports by [opening an issue](https://github.com/CodedbyChino/Text-to-Speech-Converter-/blob/main/ISSUES.md) in the GitHub repository.
 
 ## Feature Requests
 
@@ -102,7 +102,7 @@ If you have ideas for new features or improvements to the Text-to-Speech Convert
 - Justification for the feature (optional)
 - Any relevant use cases or examples
 
-You can submit feature requests by [opening an issue](link-to-issues) in the GitHub repository.
+You can submit feature requests by [opening an issue](https://github.com/CodedbyChino/Text-to-Speech-Converter-/blob/main/ISSUES.md) in the GitHub repository.
 
 ## Pull Requests
 
