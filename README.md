@@ -112,13 +112,13 @@ We welcome contributions in the form of pull requests (PRs) to improve the Text-
 - Write clear and concise commit messages.
 - Test your changes thoroughly to ensure they work as expected.
 - Include documentation updates if necessary.
-- Follow the [code style guidelines](link-to-code-style) of the project.
+- Follow the [code style guidelines](https://github.com/CodedbyChino/Text-to-Speech-Converter-/blob/main/CodeStyleGuidelines.md) of the project.
 
 Once your changes are ready, submit a pull request against the `main` branch of the repository. We'll review your changes and merge them if they align with the project goals and standards.
 
 ## Code Style Guidelines
 
-To maintain consistency and readability in the codebase, we follow certain code style guidelines. Please refer to the [Code Style Guidelines](link-to-code-style) document for more details.
+To maintain consistency and readability in the codebase, we follow certain code style guidelines. Please refer to the [Code Style Guidelines](https://github.com/CodedbyChino/Text-to-Speech-Converter-/blob/main/CodeStyleGuidelines.md) document for more details.
 
 ## License
 
