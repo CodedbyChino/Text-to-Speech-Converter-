@@ -78,6 +78,48 @@ text-to-speech-converter/
 
 **Solution:** Ensured that all required parameters were correctly provided to the Lambda function.
 
+# Contributing Guidelines
+
+Thank you for considering contributing to the Text-to-Speech Converter project! Contributions from developers like you help improve and grow the project. Below are some guidelines to help you get started:
+
+## Bug Reports
+
+If you encounter any bugs or unexpected behavior while using the Text-to-Speech Converter, please submit a detailed bug report. Include information such as:
+
+- Description of the issue
+- Steps to reproduce the issue
+- Expected behavior
+- Actual behavior
+- Any error messages or screenshots
+
+You can submit bug reports by [opening an issue](link-to-issues) in the GitHub repository.
+
+## Feature Requests
+
+If you have ideas for new features or improvements to the Text-to-Speech Converter, we'd love to hear from you! Please submit a feature request with the following details:
+
+- Description of the feature or enhancement
+- Justification for the feature (optional)
+- Any relevant use cases or examples
+
+You can submit feature requests by [opening an issue](link-to-issues) in the GitHub repository.
+
+## Pull Requests
+
+We welcome contributions in the form of pull requests (PRs) to improve the Text-to-Speech Converter. Before submitting a PR, please ensure the following:
+
+- Fork the repository and create a new branch for your changes.
+- Write clear and concise commit messages.
+- Test your changes thoroughly to ensure they work as expected.
+- Include documentation updates if necessary.
+- Follow the [code style guidelines](link-to-code-style) of the project.
+
+Once your changes are ready, submit a pull request against the `main` branch of the repository. We'll review your changes and merge them if they align with the project goals and standards.
+
+## Code Style Guidelines
+
+To maintain consistency and readability in the codebase, we follow certain code style guidelines. Please refer to the [Code Style Guidelines](link-to-code-style) document for more details.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
