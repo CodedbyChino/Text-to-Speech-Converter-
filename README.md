@@ -1,7 +1,5 @@
 # Text-to-Speech Converter
 
-![Text-to-Speech Converter](https://yourimageurl.com)
-
 ## Overview
 
 The Text-to-Speech Converter is a serverless application built on AWS that converts text files into speech audio files using Amazon Polly. It leverages AWS Lambda functions to process uploaded text files from an S3 bucket and generate corresponding MP3 audio files.
